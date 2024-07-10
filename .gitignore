@@ -1,0 +1,5 @@
+gits/*
+kernel-lore-inboxes/*
+archives/*
+__pycache__
+commits.csv
