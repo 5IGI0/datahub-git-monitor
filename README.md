@@ -7,7 +7,7 @@ It extracts emails, names, and dates for subsequent analysis.
 
 ## Dependences
 
-
+this repository doesn't depend on much: `git`, `python3` (without any pip package) and a few commands such as `tr` and `cut`
 
 ## Use Cases
 
